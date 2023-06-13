@@ -61,8 +61,8 @@ I love the entire process of developing creative and develop android application
 <br>
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyanhtrang&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyanhtrang&theme=solarized_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyanhtrang&theme=algolia&layout=compact" alt="Trang Kỳ Anh" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyanhtrang&theme=algolia">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyanhtrang&theme=solarized_dark&utcOffset=8">
 	
 </p>
