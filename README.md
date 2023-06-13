@@ -15,13 +15,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 🤝 Connect with me:
-
-<a href="https://www.facebook.com/trangkyanh/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Trang Ky Anh | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/tk.ank/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt=" Trang Ky Anh| Instagram" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
 ## 🔭 I'm currently working on
 
 - Mobile app at school
