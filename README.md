@@ -59,7 +59,11 @@ I love the entire process of developing creative and develop android application
 
 
 
+<br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyanhtrang&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![kyanhtrang GitHub stats](https://github-readme-stats.vercel.app/api?username=kyanhtrang&theme=algolia)](https://github.com/kyanhtrang/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyanhtrang&theme=algolia)](https://github.com/kyanhtrang/github-readme-stats) [![kyanhtrang wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyanhtrang7&theme=algolia)](https://github.com/kyanhtrang/github-readme-stats)
+
+<br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=kyanhtrang)](https://github.com/kyanhtrang)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyanhtrang&layout=compact)](https://github.com/kyanhtrang)
