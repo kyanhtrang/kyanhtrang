@@ -1,13 +1,19 @@
 
-<h3 align="center">
-Hi there, I'm Trang Ky Anh</a> 👋
-</h3>
+<h1 align="center"><b>Hi , I'm Trang Kỳ Anh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align="center">
-I'm a Mobile Developer 💻, Photographer 📸, and Designer 🎨!
-</h2> 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-I love the entire process of developing creative and develop android application. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+<picture> <img align="right" src="https://github.com/AllieInJune04/AllieInJune04/blob/main/mygif.gif" border="none" width = 175px></picture>
+
+<br>
+
+- :man_student: I'm student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/).
+- 💻 I'm studying **Computer Systems Networking and Telecommunications**
+- 👧 I have been **Media Leader** at [Ban học tập Công nghệ Phần mềm](https://www.facebook.com/bhtcnpm/)
+- :dart: I am finding a **Fresher Job**.
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🤝 Connect with me:
 
