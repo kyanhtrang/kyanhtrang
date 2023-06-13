@@ -64,6 +64,7 @@ I love the entire process of developing creative and develop android application
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyanhtrang&theme=algolia&layout=compact" alt="Trang Kỳ Anh" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyanhtrang&theme=algolia">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyanhtrang&theme=algolia&utcOffset=8">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kyanhtrang&theme=algolia&date_format=M%20j%5B%2C%20Y%5D">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyanhtrang&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)	
 </p>
 
