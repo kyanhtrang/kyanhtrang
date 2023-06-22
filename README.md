@@ -7,8 +7,8 @@
 
 <br>
 
-- :man_student: I'm student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/).
-- 💻 I'm studying **Computer Systems Networking and Telecommunications**
+- :man_student: I'm a student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/).
+- 💻 I'm studying **Computer Systems Networking and Communications**
 - 👧 I have been **Media Leader** at [Ban học tập Công nghệ Phần mềm](https://www.facebook.com/bhtcnpm/)
 - :dart: I am finding a **Fresher Job**.
 <br><br>
