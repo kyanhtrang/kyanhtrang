@@ -3,7 +3,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="[Tkthao219 Tooji Sticker - Tkthao219 Tooji - Discover & Share GIFs.gif]" border="none" width = 175px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/originals/7d/13/19/7d131912fc32c8997c55d45ffb9692f1.gif" border="none" width = 175px></picture>
 
 <br>
 
