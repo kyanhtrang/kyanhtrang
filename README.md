@@ -5,13 +5,15 @@
 
 <picture> <img align="right" src="https://i.pinimg.com/originals/7d/13/19/7d131912fc32c8997c55d45ffb9692f1.gif" border="none" width = 175px></picture>
 
-<br>
-
-- :man_student: I'm a student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/).
+<hr>
+<pre>
+ - :man_student: I'm a student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/).
 - 💻 I'm studying **Computer Systems Networking and Communications**
 - 👧 I have been **Media Leader** at [Ban học tập Công nghệ Phần mềm](https://www.facebook.com/bhtcnpm/)
 - :dart: I am finding a **Fresher Job**.
-<br><br>
+</pre>
+
+  <hr>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
