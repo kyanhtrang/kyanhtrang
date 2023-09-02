@@ -10,7 +10,7 @@
 - 💻 I'm studying **Computer Systems Networking and Communications**
 - 👧 I have been **Media Leader** at [Ban học tập Công nghệ Phần mềm](https://www.facebook.com/bhtcnpm/)
 - :dart: I am finding a **Fresher Job**.
-<br>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
